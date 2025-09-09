@@ -67,7 +67,7 @@ Output Count: 9
 
 ### Lab2  
 Output Count: 1  
-![Day2Lab2-1](Day%202/Lab2/Output/Day2Lab2%20(1).png)
+![Day2Lab2-1](Day%202/Lab2/Output/Day1Lab2%20(1).png)
 
 ---
 
@@ -88,9 +88,9 @@ Output Count: 6
 
 ### Lab1  
 Output Count: 3  
-![Day4Lab1-1](Day%204/Lab1/Output/Day4Lab1%20(1).png)  
-![Day4Lab1-2](Day%204/Lab1/Output/Day4Lab1%20(2).png)  
-![Day4Lab1-3](Day%204/Lab1/Output/Day4Lab1%20(3).png)
+![Day4Lab1-1](Day%204/Lab1/Output/Day4Lab1%20%20(1).png)  
+![Day4Lab1-2](Day%204/Lab1/Output/Day4Lab1%20%20(2).png)  
+![Day4Lab1-3](Day%204/Lab1/Output/Day4Lab1%20%20(3).png)
 
 ### Lab2  
 Output Count: 2  
